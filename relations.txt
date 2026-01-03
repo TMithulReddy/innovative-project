@@ -1,0 +1,80 @@
+Pandas|Used for|Data Analysis
+Data Structures|Prerequisite for|Algorithms
+Problem Solving|Needed for|Placements
+Machine Learning|Includes|Reinforcement Learning
+Machine Learning|Includes|Unsupervised Learning
+Machine Learning|Includes|Supervised Learning
+Machine Learning|Requires|Python
+Machine Learning|Requires|Linear Algebra
+Machine Learning|Requires|Statistics
+Ethical Hacking|Uses|Kali Linux
+RNN|Used for|Time Series Analysis
+Database Systems|Used in|Backend Development
+Database Systems|Includes|Indexing
+Database Systems|Includes|Normalization
+Database Systems|Includes|SQL
+Deep Learning|Uses|Neural Networks
+Deep Learning|Subset of|Machine Learning
+NumPy|Used for|Matrix Operations
+AI Engineer|Requires|Neural Networks
+AI Engineer|Requires|Python
+AI Engineer|Requires|Deep Learning
+NLP|Used for|Chatbots
+Computer Vision|Used for|Self Driving Cars
+Transformers|Used for|NLP
+CNN|Used for|Computer Vision
+GitHub|Used for|Code Collaboration
+Software Developer|Requires|Version Control
+Software Developer|Requires|DSA
+Software Developer|Requires|Programming Fundamentals
+Algorithms|Prerequisite for|Machine Learning
+Algorithms|Prerequisite for|Competitive Programming
+Python|Has Library|PyTorch
+Python|Has Library|TensorFlow
+Python|Has Library|Pandas
+Python|Has Library|NumPy
+Python|Used for|Scripting
+PyTorch|Used for|Deep Learning
+Neural Networks|Includes|Transformers
+Neural Networks|Includes|RNN
+Neural Networks|Includes|CNN
+Programming Fundamentals|Uses|Java
+Programming Fundamentals|Uses|Python
+Programming Fundamentals|Uses|C Language
+Programming Fundamentals|Requires|Logic Building
+Data Scientist|Requires|ML
+Data Scientist|Requires|Statistics
+Data Scientist|Requires|Python
+C Language|Helps Understand|Memory Management
+ds|important|ds
+Git|Hosted on|GitHub
+Version Control|Uses|Git
+Machine Learning Engineer|Requires|Model Deployment
+Machine Learning Engineer|Requires|Python
+Machine Learning Engineer|Requires|ML
+Computer Networks|Used in|Cyber Security
+Computer Networks|Includes|OSI Model
+Computer Networks|Includes|IP Protocols
+Computer Science|Includes|Compiler Design
+Computer Science|Includes|Database Systems
+Computer Science|Includes|Computer Networks
+Computer Science|Includes|Operating Systems
+Computer Science|Includes|Mathematics
+Computer Science|Includes|Programming Fundamentals
+SQL|Used for|Data Management
+TensorFlow|Used for|Deep Learning
+Cyber Security|Includes|Network Defense
+Cyber Security|Requires|Ethical Hacking
+Operating Systems|Includes|File Systems
+Operating Systems|Includes|Memory Management
+Operating Systems|Includes|Process Management
+Competitive Programming|Enhances|Problem Solving
+DS|concept|LINKS
+Cyber Security Engineer|Requires|Penetration Testing
+Cyber Security Engineer|Requires|Threat Analysis
+Cyber Security Engineer|Requires|Networking
+Java|Popular for|OOP Applications
+Mathematics|Required for|Machine Learning
+Mathematics|Includes|Statistics
+Mathematics|Includes|Probability
+Mathematics|Includes|Linear Algebra
